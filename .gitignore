@@ -15,3 +15,4 @@ tests/emulator_tests.log
 emulator.log
 emulator.pid
 tests/__pycache__/
+.docker-env-id
